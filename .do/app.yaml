@@ -1,0 +1,9 @@
+name: timraphael-com
+static_sites:
+- build_command: bundle exec jekyll build -d ./public
+  environment_slug: jekyll
+  github:
+    branch: main
+    deploy_on_push: true
+    repo: tardoe/timraphael-com
+  name: timraphael-com

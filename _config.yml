@@ -1,6 +1,6 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+title : "Tim Raphael"
+author: "Tim Raphael"
+description: "The various ramblings of a Software/Network Engineer on anything and everything tech."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -20,8 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
-  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Mail, icon: envelope, url: "mailto:tardoe@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/tardoe"}
   - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
 comments:
